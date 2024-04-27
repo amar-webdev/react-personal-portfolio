@@ -26,7 +26,7 @@ function Header() {
         <button className="btn-light flex items-center">Portfolio <i className="fa-solid fa-arrow-right"></i></button>
       </div>
       <p className="max-w-md font-medium">Passionate Website Developer with 4+ Years of Experience</p>
-      <img src="./assert/soft-girl-aesthetic-pastel-tones-removebg-preview.png" alt="photo" className="user-img" />
+      <img src="./src/assets/soft-girl-aesthetic-pastel-tones-removebg-preview.png" alt="photo" className="user-img" />
     </div>
   );
 }
